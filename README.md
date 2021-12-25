@@ -1,2 +1,2 @@
-# CV
-Personal Curriculm Vitae
+# CV-
+Erick Chávez CV
